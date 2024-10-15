@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.col-md-4 {
+    display: inline-block;
+    flex-direction: column;
+    margin: 10px 10px 0 100px;
+    padding-bottom: none;
+    font-family:  Arial;
+    font-size: 20px;
+}
+
+.display-6 {
+    font-family: sans-seriff;
+}
+
+hr {
+    margin: 0 100px;
+}
+
+h1 {
+    font-weight: heavy;
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin: 5px 0 10px 0px;
+}
+
+button {
+    border-radius: 10px;
+    border-color: white;
+    height: 40px;
+    width: 150px;
+    margin: 10px 5px 0 0;
+}
+
+.add_tr {
+    background-color: #0d6efd;
+}
+
+.view_tr {
+    background-color: #6c757d;
+}
+
+.btn-primary, .btn-secondary {
+    font-size: 14px;
+    color: white;
+}
