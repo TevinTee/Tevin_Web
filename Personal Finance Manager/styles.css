@@ -33,7 +33,7 @@ h3 {
     margin: 5px 0 10px 0px;
 }
 
-button {
+button, .return {
     border-radius: 10px;
     border-color: white;
     height: 40px;
@@ -49,7 +49,8 @@ button {
     background-color: #6c757d;
 }
 
-.btn-primary, .btn-secondary {
+.btn-primary, .btn-secondary, a {
     font-size: 14px;
     color: white;
+    text-decoration: none;
 }
